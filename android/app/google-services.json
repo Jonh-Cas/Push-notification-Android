@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "774422303917",
+    "project_id": "pushnotificationsdummys",
+    "storage_bucket": "pushnotificationsdummys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774422303917:android:ffe978ef0500cabf49e224",
+        "android_client_info": {
+          "package_name": "com.pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774422303917-4c2hflpfabfu67sp2gi9hiuua9g4afq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFJVO1rg6b3RNi-YBdlvWys6BxsarZmOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774422303917-4c2hflpfabfu67sp2gi9hiuua9g4afq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774422303917-frbr5t1p2jln3k3m0m2ungdottm02us2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.pushNotifications"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
